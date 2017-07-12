@@ -1,0 +1,5 @@
+Title: Dynamic On-hover Inset Plots
+Author: Artem Sokolov
+License: MIT
+DisplayMode: Showcase
+Description: Demonstrates how to construct dynamic context-sensitive inset plots and overlay them on top of the main data.
